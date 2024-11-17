@@ -1,2 +1,2 @@
 # hi
-[Anisette V3 Server](nurgnij.github.io/servers.json)
+[Anisette V3 Server](https://nurgnij.github.io/servers.json)
